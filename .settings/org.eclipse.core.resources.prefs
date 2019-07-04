@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/lab3/expression/AbsoluteValueExpression.java=UTF-8
+encoding//src/lab3/expression/DerivativeExpression.java=UTF-8
+encoding//src/lab3/expression/DifferenceExpression.java=UTF-8
+encoding//src/lab3/expression/DivisionExpression.java=UTF-8
+encoding//src/lab3/expression/ExponentiationExpression.java=UTF-8
+encoding//src/lab3/expression/NegationExpression.java=UTF-8
+encoding//src/lab3/expression/NewtonsMethod.java=UTF-8
+encoding//src/lab3/expression/NumberExpression.java=UTF-8
+encoding//src/lab3/expression/ProductExpression.java=UTF-8
+encoding//src/lab3/expression/SumExpression.java=UTF-8
+encoding//src/lab3/expression/Variable.java=UTF-8
+encoding//src/lab3/guicalc/Main.java=UTF-8
+encoding//src/lab3/operator/BinaryOperatorImp.java=UTF-8
+encoding//src/lab3/operator/UnaryOperatorImp.java=UTF-8
+encoding//src/lab3/termcalc/ExpressionMakerImp.java=UTF-8
+encoding//src/lab3/termcalc/Main.java=UTF-8
